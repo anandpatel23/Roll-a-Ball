@@ -1,6 +1,6 @@
 # Roll-a-Ball
 
-## First Unity Game
+### First Unity Game
 
 This is my first game using Unity 5. I have no experience with game development, so I was able to utilize unity.com/learn for the first tutorial. 
 
